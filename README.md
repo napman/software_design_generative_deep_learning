@@ -1,1 +1,4 @@
-# software_design_generative_deep_learning
+「データ生成技術で理解する ディープフェイクのしくみ」 補足資料
+=====
+
+

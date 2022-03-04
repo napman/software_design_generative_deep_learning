@@ -9,6 +9,8 @@ Software Design誌の連載「データ生成技術で理解する ディープ�
 * [Kerasのサンプルコード（オリジナル）](keras_origin.py)
 * [Diff](swd.diff)
 
+本コードは、[Apache License 2.0](LICENSE)で配布されている制作物が含まれています。
+
 参考：
 
 https://keras.io/examples/generative/dcgan_overriding_train_step/

@@ -8,3 +8,7 @@ Software Design誌の連載「データ生成技術で理解する ディープ�
 * [本誌掲載のサンプルコード](swd_modified.py)
 * [Kerasのサンプルコード（オリジナル）](keras_origin.py)
 * [Diff](swd.diff)
+
+参考：
+
+https://keras.io/examples/generative/dcgan_overriding_train_step/
